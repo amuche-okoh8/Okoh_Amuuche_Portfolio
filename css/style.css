@@ -6,6 +6,10 @@
     --dark: #262b47;
 }
 
+body {
+	overflow-x: hidden !important;
+}
+
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -303,11 +307,11 @@ h6,
     }
 }
 
+
 /*** Feature ***/
 .feature-item {
     transition: 0.5s;
 }
-
 .feature-item:hover {
     margin-top: -15px;
     box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.08);
