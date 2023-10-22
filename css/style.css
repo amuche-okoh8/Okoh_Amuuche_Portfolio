@@ -6,10 +6,6 @@
     --dark: #262b47;
 }
 
-body {
-	overflow-x: hidden !important;
-}
-
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -217,9 +213,18 @@ h6,
 
 .sticky-top.navbar-light .navbar-brand img {
     max-height: 45px;
-}
+} 
+
+#mobile_view {
+    display: none;
+  }
 
 @media (max-width: 991.98px) {
+    #mobile_view {
+        display: block;
+        color: black !important;
+    }
+    
     .sticky-top.navbar-light {
         position: relative;
         background: #ffffff;
