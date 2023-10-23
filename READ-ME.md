@@ -2,7 +2,7 @@
     ---
 ### **Brief Introduction**
     My portfolio website is a Capstone project for *HerTecchTrail cohort7 frontend web development starter track*
-    I will use the tools and languages I learned to create a portfolio site. 
+    I will use the tools and language I learned from the training to create a portfolio site. 
     ---
 
 ### **Linkss**
