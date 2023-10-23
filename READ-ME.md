@@ -2,11 +2,14 @@
     ---
 ### **Brief Introduction**
     My portfolio website is a Capstone project for *HerTecchTrail cohort7 frontend web development starter track*
-    I embarked on this three months ago take a look (https://github.com/amuche-okoh8/Okoh_Amuuche_Portfolio).
+    I will use the tools and languages I learned to create a portfolio site. 
     ---
 
 ### **Linkss**
-
+  + Portfolio URL
+     (https://github.com/amuche-okoh8/Okoh_Amuuche_Portfolio)
+  + Live Site URL
+    (https://amuche-okoh8.github.io/Okoh_Amuuche_Portfolio/)
     ---
     
   ### **Built with**
