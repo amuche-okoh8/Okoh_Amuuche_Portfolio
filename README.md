@@ -1,9 +1,9 @@
 # **Okoh_Amuuche_Portfolio**
   ___
 
-### **brief Introduction**
+### **Brief Introduction**
       This portfolio website is a capstone project for *HerTechTrail Acadamy Cohort 7 Frontend Web Development stater Track*.
-      I made use of the tools and language i learned from the training to build the portfio website.
+      I made use of the tools and language I learned from the training to build the Portfio website.
     ___
 
 ### **Links**
